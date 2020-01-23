@@ -1,0 +1,60 @@
+Admin local time and date: Fri Nov 22 14:34:38 2019
+
+Enter the time in "hh:mm:ss" format : 14:32:33
+Enter date(MM/DD/YYY): 4/5/2019
+The Time is : 14:32:33
+5th April, 2019
+Enter id n name:
+1  ritesh
+2  rahat
+3  dggt
+4  fgko,s
+
+Admin local time and date: Fri Nov 22 14:36:10 2019
+
+Enter the time in "hh:mm:ss" format : 14:32:44
+Enter date(MM/DD/YYY): 4/5/2019
+The Time is : 14:32:44
+5th April, 2019
+Enter id n name:
+1  er3t
+2  wfrt
+3  feg
+4  sgege
+
+Admin local time and date: Fri Nov 22 14:39:03 2019
+
+Enter the time in "hh:mm:ss" format : 14:34:38
+Enter date(MM/DD/YYY): 4/5/2019
+The Time is : 14:34:38
+5th April, 2019
+Enter id n name:
+1  ritesh
+2  rahat
+3  qwer
+4  rheid
+
+Admin local time and date: Sat Nov 23 20:57:14 2019
+
+Enter the time in "hh:mm:ss" format : 15:15:15
+Enter date(MM/DD/YYY): 5/4/2019
+The Time is : 15:15:15
+4th May, 2019
+Enter id n name:
+0 qwe
+0 qwer
+0 asd
+0 dsa
+
+Admin local time and date: Sat Nov 23 20:59:52 2019
+
+Enter the time in "hh:mm:ss" format : 15:15:15
+Enter date(MM/DD/YYY): 5/5/2019
+The Time is : 15:15:15
+5th May, 2019
+Enter id n name:
+0 dscsd
+0 dfbgdf
+0 btge
+0 rgeb
+
